@@ -2,7 +2,7 @@
     "AKIEME Sergio_Pré-saison": {
         "entretien_date": "",
         "rdv_date": "",
-        "dominant": "Force",
+        "dominant": "SSSS",
         "weak": "",
         "strat_salle": "",
         "strat_terrain": "",
@@ -37,14 +37,14 @@
         ],
         "selected_metrics": [
             "VMA",
-            "Squat belt (N)",
             "CMJ 2JB",
             "RFD CMJ",
             "Test 1km (s)",
             "SV2",
+            "Wattbike (6s)",
             "Peak Force CMJ",
             "RSI CMJ",
-            "Wattbike (6s)",
+            "Squat belt (N)",
             "SV1"
         ],
         "use_relative": {
@@ -104,6 +104,6 @@
                 "delai": ""
             }
         },
-        "last_modified": "03/08/2026 à 11:06:56"
+        "last_modified": "03/08/2026"
     }
 }
