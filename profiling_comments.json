@@ -1,0 +1,109 @@
+{
+    "AKIEME Sergio_Pré-saison": {
+        "entretien_date": "",
+        "rdv_date": "",
+        "dominant": "Force",
+        "weak": "",
+        "strat_salle": "",
+        "strat_terrain": "",
+        "themes": [
+            {
+                "id": "df984e4c-145a-44e0-a21a-49395348afa3",
+                "etat": "En manque de",
+                "qualite": "Force",
+                "zone": "Chaîne antérieure",
+                "objectif": "",
+                "freq": "1x/sem",
+                "moment": "Pré séance"
+            },
+            {
+                "id": "eed56ef5-c43e-4ad4-a032-09a9aa5f0c66",
+                "etat": "En manque de",
+                "qualite": "Mobilité",
+                "zone": "Cheville",
+                "objectif": "",
+                "freq": "1x/sem",
+                "moment": "Pré séance"
+            },
+            {
+                "id": "562b16b0-58c3-40f8-af68-46da535d5435",
+                "etat": "Prévention de",
+                "qualite": "Force",
+                "zone": "Pied / Orteil",
+                "objectif": "",
+                "freq": "1x/sem",
+                "moment": "Pré séance"
+            }
+        ],
+        "selected_metrics": [
+            "VMA",
+            "Squat belt (N)",
+            "CMJ 2JB",
+            "RFD CMJ",
+            "Test 1km (s)",
+            "SV2",
+            "Peak Force CMJ",
+            "RSI CMJ",
+            "Wattbike (6s)",
+            "SV1"
+        ],
+        "use_relative": {
+            "Wattbike (6s)": false,
+            "Squat belt (N)": false,
+            "Peak Force CMJ": false
+        },
+        "staff_evals": {
+            "Wattbike (6s)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Squat belt (N)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "CMJ 2JB": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 40 cm",
+                "delai": ""
+            },
+            "Peak Force CMJ": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "RFD CMJ": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "RSI CMJ": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 2.5 ",
+                "delai": ""
+            },
+            "VMA": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "SV1": {
+                "statut": "Proche",
+                "objectif": "",
+                "delai": ""
+            },
+            "SV2": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Test 1km (s)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            }
+        },
+        "last_modified": "03/08/2026 à 11:06:47"
+    }
+}
