@@ -105,5 +105,156 @@
             }
         },
         "last_modified": "03/08/2026"
+    },
+    " PARIS Quentin_Pré-saison": {
+        "entretien_date": "",
+        "rdv_date": "",
+        "dominant": "",
+        "weak": "",
+        "strat_salle": "",
+        "strat_terrain": "",
+        "themes": [
+            {
+                "id": "62a6fa4f-02b1-4e32-b54b-6ae126f1ac84",
+                "etat": "Prévention de",
+                "qualite": "Blessure (Ratio)",
+                "zone": "Hanche / Pubis",
+                "objectif": "",
+                "freq": "1x/sem",
+                "moment": "Pré séance"
+            },
+            {
+                "id": "0d27aad3-0a63-489e-9606-5302ae664bb9",
+                "etat": "En manque de",
+                "qualite": "Puissance",
+                "zone": "Membre inférieur",
+                "objectif": "",
+                "freq": "1x/sem",
+                "moment": "Pré séance"
+            },
+            {
+                "id": "af5d31e1-8cff-45d5-b614-4a748b247a20",
+                "etat": "Rééquilibrage de",
+                "qualite": "Force",
+                "zone": "Nordic Ischio",
+                "objectif": "",
+                "freq": "1x/sem",
+                "moment": "Pré séance"
+            }
+        ],
+        "selected_metrics": [
+            "Adducteurs (D)",
+            "Nordic Ischio (G)",
+            "Inverseur (G)",
+            "Sit And Reach",
+            "Somme ADD",
+            "Ratio Squeeze",
+            "Endurance Heel Raise (D)",
+            "Nordic Ischio (D)",
+            "Endurance Heel Raise (G)",
+            "Knee To Wall (D)",
+            "Somme ABD",
+            "Everseur (G)",
+            "Inverseur (D)",
+            "Everseur (D)",
+            "Abducteurs (G)",
+            "Adducteurs (G)",
+            "Knee To Wall (G)",
+            "Abducteurs (D)"
+        ],
+        "use_relative": {},
+        "staff_evals": {
+            "Sit And Reach": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Knee To Wall (G)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Knee To Wall (D)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Adducteurs (G)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Adducteurs (D)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Somme ADD": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Abducteurs (G)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Abducteurs (D)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 26 Kg",
+                "delai": ""
+            },
+            "Somme ABD": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Ratio Squeeze": {
+                "statut": "Proche",
+                "objectif": "Cible: 0.9-1.1 ",
+                "delai": ""
+            },
+            "Nordic Ischio (G)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 36 Kg",
+                "delai": ""
+            },
+            "Nordic Ischio (D)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Endurance Heel Raise (G)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 15 reps",
+                "delai": ""
+            },
+            "Endurance Heel Raise (D)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Inverseur (G)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Inverseur (D)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Everseur (G)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Everseur (D)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            }
+        },
+        "last_modified": "04/08/2026"
     }
 }
