@@ -256,5 +256,148 @@
             }
         },
         "last_modified": "04/08/2026"
+    },
+    "AFONSO Flavio_Pré-saison": {
+        "entretien_date": "",
+        "rdv_date": "",
+        "dominant": "",
+        "weak": "",
+        "strat_salle": "",
+        "strat_terrain": "",
+        "themes": [
+            {
+                "id": "fa14e3a9-5d06-40cc-b70f-83aecb069584",
+                "etat": "Prévention de",
+                "qualite": "Blessure (Ratio)",
+                "zone": "Hanche / Pubis",
+                "objectif": "",
+                "freq": "1x/sem",
+                "moment": "Pré séance"
+            },
+            {
+                "id": "de4a1b47-0d3e-4d3c-890a-0976f164d750",
+                "etat": "En manque de",
+                "qualite": "Force",
+                "zone": "Membre inférieur",
+                "objectif": "",
+                "freq": "1x/sem",
+                "moment": "Pré séance"
+            },
+            {
+                "id": "5930b031-7c5c-4be0-8152-a9eaf8484b9a",
+                "etat": "En manque de",
+                "qualite": "Puissance",
+                "zone": "Membre inférieur",
+                "objectif": "",
+                "freq": "1x/sem",
+                "moment": "Pré séance"
+            }
+        ],
+        "selected_metrics": [
+            "Endurance Heel Raise (G)",
+            "Inverseur (D)",
+            "Adducteurs (G)",
+            "Knee To Wall (G)",
+            "Inverseur (G)",
+            "Knee To Wall (D)",
+            "Nordic Ischio (D)",
+            "Abducteurs (D)",
+            "Adducteurs (D)",
+            "Abducteurs (G)",
+            "Sit And Reach",
+            "Everseur (G)",
+            "Nordic Ischio (G)",
+            "Ratio Squeeze",
+            "Endurance Heel Raise (D)",
+            "Everseur (D)"
+        ],
+        "use_relative": {
+            "Wattbike (6s)": false,
+            "Squat belt (N)": false,
+            "Peak Force CMJ": false
+        },
+        "staff_evals": {
+            "Sit And Reach": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Knee To Wall (G)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Knee To Wall (D)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Adducteurs (G)": {
+                "statut": "Proche",
+                "objectif": "",
+                "delai": ""
+            },
+            "Adducteurs (D)": {
+                "statut": "Proche",
+                "objectif": "",
+                "delai": ""
+            },
+            "Abducteurs (G)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 26 Kg",
+                "delai": ""
+            },
+            "Abducteurs (D)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 26 Kg",
+                "delai": ""
+            },
+            "Ratio Squeeze": {
+                "statut": "Proche",
+                "objectif": "Cible: 0.9-1.1 ",
+                "delai": ""
+            },
+            "Nordic Ischio (G)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Nordic Ischio (D)": {
+                "statut": "Proche",
+                "objectif": "",
+                "delai": ""
+            },
+            "Endurance Heel Raise (G)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Endurance Heel Raise (D)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Inverseur (G)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Inverseur (D)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 10 Kg",
+                "delai": ""
+            },
+            "Everseur (G)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 10 Kg",
+                "delai": ""
+            },
+            "Everseur (D)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 10 Kg",
+                "delai": ""
+            }
+        },
+        "last_modified": "10/08/2026"
     }
 }
