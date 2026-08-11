@@ -399,5 +399,266 @@
             }
         },
         "last_modified": "10/08/2026"
+    },
+    "BAH Thierno_Pré-saison": {
+        "entretien_date": "",
+        "rdv_date": "",
+        "dominant": "",
+        "weak": "",
+        "strat_salle": "",
+        "strat_terrain": "",
+        "themes": [
+            {
+                "id": "6a8532a7-ace5-430c-9c73-148cd0307ca6",
+                "etat": "En manque de",
+                "qualite": "Puissance",
+                "zone": "Membre inférieur",
+                "objectif": "",
+                "freq": "1x/sem",
+                "moment": "Pré séance"
+            },
+            {
+                "id": "d6299e87-0480-4411-b724-c7e2620beba6",
+                "etat": "En manque de",
+                "qualite": "Force",
+                "zone": "Chaîne antérieure",
+                "objectif": "",
+                "freq": "1x/sem",
+                "moment": "Pré séance"
+            },
+            {
+                "id": "997a2741-c5f6-4a8c-834f-7a65dfa61692",
+                "etat": "Rééquilibrage de",
+                "qualite": "Force",
+                "zone": "Everseur",
+                "objectif": "",
+                "freq": "1x/sem",
+                "moment": "Pré séance"
+            }
+        ],
+        "selected_metrics": [
+            "Ratio Squeeze",
+            "VMA",
+            "IJ Conc 60° (G)",
+            "Abducteurs (G)",
+            "Q Conc 60° (D)",
+            "Knee To Wall (G)",
+            "Peak Force CMJ",
+            "Abducteurs (D)",
+            "RFD CMJ",
+            "CMJ 2JB",
+            "IJ Conc 60° (D)",
+            "Q Conc 240° (G)",
+            "IJ Exc 30° (G)",
+            "Ratio Mixte (D)",
+            "Wattbike (6s)",
+            "Inverseur (D)",
+            "Nordic Ischio (D)",
+            "IJ Exc 30° (D)",
+            "IJ Conc 240° (D)",
+            "Ratio Mixte (G)",
+            "Everseur (G)",
+            "Everseur (D)",
+            "Q Conc 240° (D)",
+            "Q Conc 60° (G)",
+            "Knee To Wall (D)",
+            "Adducteurs (D)",
+            "RSI CMJ",
+            "Nordic Ischio (G)",
+            "Inverseur (G)",
+            "IJ Conc 240° (G)",
+            "Adducteurs (G)",
+            "Sit And Reach",
+            "Endurance Heel Raise (G)",
+            "Endurance Heel Raise (D)"
+        ],
+        "use_relative": {
+            "Wattbike (6s)": false,
+            "Squat belt (N)": false,
+            "Peak Force CMJ": false,
+            "Q Conc 60° (G)": false,
+            "Q Conc 60° (D)": false,
+            "Q Conc 240° (G)": false,
+            "Q Conc 240° (D)": false,
+            "IJ Conc 60° (G)": false,
+            "IJ Conc 60° (D)": false,
+            "IJ Conc 240° (G)": false,
+            "IJ Conc 240° (D)": false,
+            "IJ Exc 30° (G)": false,
+            "IJ Exc 30° (D)": false
+        },
+        "staff_evals": {
+            "Wattbike (6s)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 1100 W",
+                "delai": ""
+            },
+            "CMJ 2JB": {
+                "statut": "Proche",
+                "objectif": "",
+                "delai": ""
+            },
+            "Peak Force CMJ": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 2000 N",
+                "delai": ""
+            },
+            "RFD CMJ": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "RSI CMJ": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "VMA": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Sit And Reach": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Knee To Wall (G)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 9 cm",
+                "delai": ""
+            },
+            "Knee To Wall (D)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Adducteurs (G)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 26 Kg",
+                "delai": ""
+            },
+            "Adducteurs (D)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 26 Kg",
+                "delai": ""
+            },
+            "Abducteurs (G)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 26 Kg",
+                "delai": ""
+            },
+            "Abducteurs (D)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 26 Kg",
+                "delai": ""
+            },
+            "Ratio Squeeze": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Nordic Ischio (G)": {
+                "statut": "Proche",
+                "objectif": "",
+                "delai": ""
+            },
+            "Nordic Ischio (D)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 36 Kg",
+                "delai": ""
+            },
+            "Endurance Heel Raise (G)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Endurance Heel Raise (D)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Inverseur (G)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 10 Kg",
+                "delai": ""
+            },
+            "Inverseur (D)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Everseur (G)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 10 Kg",
+                "delai": ""
+            },
+            "Everseur (D)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Q Conc 60° (G)": {
+                "statut": "Non Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Q Conc 60° (D)": {
+                "statut": "Non Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Q Conc 240° (G)": {
+                "statut": "Non Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Q Conc 240° (D)": {
+                "statut": "Non Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "IJ Conc 60° (G)": {
+                "statut": "Non Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "IJ Conc 60° (D)": {
+                "statut": "Non Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "IJ Conc 240° (G)": {
+                "statut": "Non Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "IJ Conc 240° (D)": {
+                "statut": "Non Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "IJ Exc 30° (G)": {
+                "statut": "Non Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "IJ Exc 30° (D)": {
+                "statut": "Non Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Ratio Mixte (G)": {
+                "statut": "Non Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Ratio Mixte (D)": {
+                "statut": "Non Acquis",
+                "objectif": "",
+                "delai": ""
+            }
+        },
+        "last_modified": "11/08/2026"
     }
 }
