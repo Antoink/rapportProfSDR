@@ -660,5 +660,139 @@
             }
         },
         "last_modified": "11/08/2026"
+    },
+    "OKWARO Manzur_Pré-saison": {
+        "entretien_date": "",
+        "rdv_date": "",
+        "dominant": "",
+        "weak": "",
+        "strat_salle": "",
+        "strat_terrain": "",
+        "themes": [
+            {
+                "id": "df478394-36d0-4e52-8a7d-abef3d5ea50b",
+                "etat": "En manque de",
+                "qualite": "Force",
+                "zone": "Adducteurs",
+                "objectif": "",
+                "freq": "1x/sem",
+                "moment": "Pré séance"
+            },
+            {
+                "id": "d516a52e-036c-4ecd-8220-dffe8159527f",
+                "etat": "En manque de",
+                "qualite": "Stabilité",
+                "zone": "Cheville",
+                "objectif": "",
+                "freq": "1x/sem",
+                "moment": "Pré séance"
+            }
+        ],
+        "selected_metrics": [
+            "Ratio Squeeze",
+            "Everseur (G)",
+            "Nordic Ischio (D)",
+            "Abducteurs (D)",
+            "Abducteurs (G)",
+            "Knee To Wall (D)",
+            "Sit And Reach",
+            "Endurance Heel Raise (G)",
+            "Adducteurs (G)",
+            "Inverseur (G)",
+            "Endurance Heel Raise (D)",
+            "Inverseur (D)",
+            "Adducteurs (D)",
+            "Everseur (D)",
+            "Nordic Ischio (G)",
+            "Knee To Wall (G)"
+        ],
+        "use_relative": {
+            "Wattbike (6s)": false,
+            "Squat belt (N)": false,
+            "Peak Force CMJ": false
+        },
+        "staff_evals": {
+            "Sit And Reach": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Knee To Wall (G)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Knee To Wall (D)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Adducteurs (G)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 26 Kg",
+                "delai": ""
+            },
+            "Adducteurs (D)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 26 Kg",
+                "delai": ""
+            },
+            "Abducteurs (G)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 26 Kg",
+                "delai": ""
+            },
+            "Abducteurs (D)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 26 Kg",
+                "delai": ""
+            },
+            "Ratio Squeeze": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Nordic Ischio (G)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Nordic Ischio (D)": {
+                "statut": "Proche",
+                "objectif": "",
+                "delai": ""
+            },
+            "Endurance Heel Raise (G)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Endurance Heel Raise (D)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Inverseur (G)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Inverseur (D)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Everseur (G)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Everseur (D)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 10 Kg",
+                "delai": ""
+            }
+        },
+        "last_modified": "21/08/2026"
     }
 }
