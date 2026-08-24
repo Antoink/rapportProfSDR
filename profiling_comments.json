@@ -804,10 +804,18 @@
         "strat_terrain": "",
         "themes": [],
         "selected_metrics": [
-            "Squat belt (N)",
             "CMJ 2JB",
+            "Somme ADD",
+            "Adducteurs (D)",
+            "Squat belt (N)",
             "RFD CMJ",
-            "Peak Force CMJ"
+            "Endurance Heel Raise (D)",
+            "Endurance Heel Raise (G)",
+            "Peak Force CMJ",
+            "Nordic Ischio (G)",
+            "Nordic Ischio (D)",
+            "Somme ABD",
+            "Adducteurs (G)"
         ],
         "use_relative": {
             "Wattbike (6s)": false,
@@ -831,6 +839,46 @@
                 "delai": ""
             },
             "RFD CMJ": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Adducteurs (G)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 26 Kg",
+                "delai": ""
+            },
+            "Adducteurs (D)": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 26 Kg",
+                "delai": ""
+            },
+            "Somme ADD": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Somme ABD": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Nordic Ischio (G)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Nordic Ischio (D)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Endurance Heel Raise (G)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "Endurance Heel Raise (D)": {
                 "statut": "Acquis",
                 "objectif": "",
                 "delai": ""
