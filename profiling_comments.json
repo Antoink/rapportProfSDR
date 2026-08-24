@@ -794,5 +794,48 @@
             }
         },
         "last_modified": "21/08/2026"
+    },
+    "IBRAHIM Hafiz_Rehab": {
+        "entretien_date": "24/08/2026",
+        "rdv_date": "",
+        "dominant": "",
+        "weak": "",
+        "strat_salle": "",
+        "strat_terrain": "",
+        "themes": [],
+        "selected_metrics": [
+            "Squat belt (N)",
+            "CMJ 2JB",
+            "RFD CMJ",
+            "Peak Force CMJ"
+        ],
+        "use_relative": {
+            "Wattbike (6s)": false,
+            "Squat belt (N)": false,
+            "Peak Force CMJ": false
+        },
+        "staff_evals": {
+            "Squat belt (N)": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "CMJ 2JB": {
+                "statut": "Non Acquis",
+                "objectif": "Cible: > 40 cm",
+                "delai": ""
+            },
+            "Peak Force CMJ": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            },
+            "RFD CMJ": {
+                "statut": "Acquis",
+                "objectif": "",
+                "delai": ""
+            }
+        },
+        "last_modified": "24/08/2026"
     }
 }
